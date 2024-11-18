@@ -7,7 +7,7 @@ _title: GWR Iron Duke Class broad gauge steam locomotives awaiting scrapping aft
 _date: 1892
 source: Wikipedia
 
-_path: /media_files/images/emperornapoleon.jpg 
+_path: /media_files/images/Intro_Train.jpg 
 layout: media_description
 
 --- 
