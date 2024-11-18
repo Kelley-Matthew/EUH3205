@@ -1,6 +1,6 @@
 --- 
 
-name: Intro_Train
+name: IntroTrain
 media_type: image
 
 _title: GWR Iron Duke Class broad gauge steam locomotives awaiting scrapping after broad gauge was abolished in 1892
