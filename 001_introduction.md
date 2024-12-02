@@ -11,4 +11,3 @@ The 19th century saw an explosion of new technology in Europe. Beginning in Engl
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'IntroTrain'" %}
 {% include media.html pages=media %}
-
