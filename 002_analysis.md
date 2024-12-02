@@ -27,6 +27,8 @@ In Germany, the length of railroad tracks quadrupled between 1850 and 1873. By 1
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'germanTrain'" %}
 {% include media.html pages=media %}
 
+Breakthroughs in chemical manufacturing, including the creation of synthetic dyes, fertilizers, and explosives, had profound social and demographic consequences. German chemist Justus von Liebig laid the groundwork for understanding soil nutrients in the mid-19th century, and the later advancements made by Fritz Haber and Carl Bosch in 1909 with the synthesis of ammonia were crucial in revolutionizing European agricultural practices. Liebig’s work established the foundation for using nitrates and phosphates, which significantly boosted soil fertility, while Haber and Bosch’s synthesis of ammonia enabled the mass production of nitrogen-based fertilizers. For instance, the discovery and import of Peruvian guano in England and later synthetic nitrogen fertilizers alleviated food shortages, helping to sustain growing urban populations in rapidly industrializing cities like Berlin and Hamburg. The expansion of Germany’s chemical industry created a higher demand for factory labor, particularly in cities like Ludwigshafen, where BASF, one of the world's largest chemical companies, was founded.
+
 
 
 
