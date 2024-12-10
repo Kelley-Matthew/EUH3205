@@ -14,6 +14,9 @@ Humphrey, S. D.    (Samuel Dwight). American Hand Book of the Daguerreotype,. Ne
 
 University of Chicago Library. European Transportation Maps of the 19th Century. University of Chicago Library Digital Collections. https://www.lib.uchicago.edu/e/collections/maps/eurotransport/.
 
+[Motor-Wagen Patent](https://www.mercedes-benz.com/en/innovation/milestones/benz-patent-motor-car/)
+
+[Daguerrotype of a Human](https://www.unjourdeplusaparis.com/en/paris-insolite/premiere-photo-etre-humain-paris-en-1838)
 
 
 ## Secondary Sources
